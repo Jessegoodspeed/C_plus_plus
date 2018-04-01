@@ -1,2 +1,2 @@
 # C_plus_plus
-Collection of my C++ code
+A collection of my C++ code over the years.
